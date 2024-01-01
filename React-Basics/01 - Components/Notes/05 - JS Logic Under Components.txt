@@ -1,0 +1,2 @@
+Components are JS functions, therefore we can add logics inside them.
+For an instance, we can add hour functionality under the card.

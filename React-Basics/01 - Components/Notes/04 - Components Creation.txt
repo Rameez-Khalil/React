@@ -1,0 +1,4 @@
+We write components with the help of functions.
+NEVER DECLARE THE COMPONENT INSIDE OF ANOTHER COMPONENT - DON'T NEST FUNCTIONS.
+
+

@@ -1,0 +1,14 @@
+COMPONENTS:
+    React is all about components.
+    Building blocks of user interfaces in React.
+    A piece of UI that has its own data, logic and how it will look like.
+    Components can be nested, and they can share data across each other.
+
+
+
+
+
+COMPONENT TREE: 
+        A hierarchy of components.
+        Relationships between components.
+        

@@ -1,0 +1,7 @@
+Components.
+Creating and Reusing components.
+Rendering Lists.
+Conditional Rendering.
+
+WE WILL BE BUILDING A MENU PROJECT.
+

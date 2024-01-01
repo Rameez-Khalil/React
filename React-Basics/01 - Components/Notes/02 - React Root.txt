@@ -1,0 +1,11 @@
+//This will fetch the root node from our HTML.
+
+    const root = reactDom.createRoot(HTML ROOT DIV)
+
+//We will need to render this root via our app component.
+    root.render(COMPONENT NAME)
+
+
+STRICT MODE: 
+    React.StrictMode - This allows us during development this renders our component twice to catch bugs.
+    

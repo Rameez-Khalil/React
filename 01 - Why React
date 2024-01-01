@@ -1,0 +1,4 @@
+All websites used to be built/render on the server.
+SPAs are rendered on the client, front end applications are responsible for making the data consistent with
+the UI.
+Data is usually stored in the DOM, shared across the entire application.
